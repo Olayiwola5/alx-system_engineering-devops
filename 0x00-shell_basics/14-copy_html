@@ -1,2 +1,2 @@
 #!/bin/bash
-mv .html
+cp -R file_name $(pwd)/../
