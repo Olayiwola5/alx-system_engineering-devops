@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -R file_name $(pwd)/../
+cp cp -R file_name $(pwd)/../
