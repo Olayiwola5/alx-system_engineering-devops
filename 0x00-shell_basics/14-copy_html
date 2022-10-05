@@ -1,2 +1,2 @@
 #!/bin/bash
-cp cp -R file_name $(pwd)/../
+cp -u *.html ..
