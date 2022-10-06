@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "input commit message"
+read commitMessage
+git add .
+git commit -m "commitMessage"
+git push
+read Username for 'https://github.com':Olayiwola5
+read Password for 'https://github.com':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
