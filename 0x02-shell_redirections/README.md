@@ -1,1 +1,1 @@
-Write a script that prints hello,word
+write a script that displays  all users and their home directories ,sorted by users
